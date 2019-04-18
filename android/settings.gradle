@@ -1,0 +1,3 @@
+rootProject.name = 'rndemoscaffolds_2412'
+
+include ':app'
